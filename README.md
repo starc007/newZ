@@ -1,5 +1,5 @@
 # newZ
-## News Application that lets you read all types of news
+## This is the Application is developed to gather and exebit all the news in a short manner
 ### Screenshots of App
 
 SS 1             |  SS 2
